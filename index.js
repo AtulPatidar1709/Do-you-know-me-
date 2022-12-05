@@ -16,10 +16,6 @@ function play(question, answer) {
   console.log("Your Score is " + score);
   console.log("____________")
 
-  if (score === 4) {
-    console.log("Congratulations You know me very well");
-    console.log("__________")
-  }
   if (score === 5) {
     console.log("You Know Me very well");
     console.log("__________")
